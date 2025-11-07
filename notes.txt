@@ -1,0 +1,8 @@
+Which states show consistent improvement over the last three years? Which factors strongly influence high dropout rates?
+Do dropout and retention patterns differ between urban and rural districts and when disaggregated by gender and caste?
+How does availability of teachers and/or functional toilets influence retention?
+Is there a correlation between poor school infrastructure and low student enrolment or high dropout rates?
+How do household income, parental education, and employment status relate to student enrolment and dropout rates?
+Is there a relationship between child nutrition or health indicators (e.g., anemia) and school attendance?
+What is the impact of school type or management? Do schools with improved facilities (libraries, labs, digital access) show higher retention and transition rates?
+What are the bottlenecks observed in transitioning from Upper Primary -> Secondary & Secondary -> Higher Secondary? 

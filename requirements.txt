@@ -1,0 +1,53 @@
+# Core Data Handling
+pandas
+numpy
+openpyxl
+xlrd
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+folium
+geopandas
+
+# Statistical & ML Modeling
+scikit-learn
+statsmodels
+xgboost
+catboost
+
+# Data Cleaning & Transformation
+pyjanitor
+missingno
+
+# Database & API
+sqlalchemy
+pymysql
+
+# Interactive Dashboards / Web Apps
+streamlit
+dash
+dash-bootstrap-components
+streamlit-folium
+
+# Geospatial / Mapping
+geopandas
+shapely
+contextily
+
+# Notebook / Environment Enhancements
+jupyter
+notebook
+ipykernel
+ipywidgets
+tqdm
+
+# NLP (for policy text mining or metadata)
+nltk
+textblob
+
+# Utility
+requests
+
+
