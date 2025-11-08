@@ -2,119 +2,112 @@
 ### 🚀 Driving Evidence-Based Interventions in Public Policy
 
 **Author:** Lakshya Agrawal  
-**Theme:** Education Data Analytics using UDISE+ 2023–24 & 2024–25  
-**Organized by:** Ministry of Education, Government of India  
+**Institution:** University of Petroleum and Energy Studies  
+**Theme:** Education Data Analytics & Machine Learning  
+**Platform:** [Unstop Datathon Page](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)  
+**Organized by:** International Innovation Corps (University of Chicago Trust) in collaboration with the Ministry of Education, Government of India  
 
 ---
 
 ## 📘 About the Datathon
 
-The **Datathon for Data-Driven Policy Innovation** is a national-level analytics competition aimed at promoting **evidence-based policymaking** in India’s public education sector.  
-Participants work with authentic datasets from **UDISE+ (Unified District Information System for Education)** — one of the largest school information management systems in the world — to uncover patterns, build predictive models, and propose actionable policy insights.
+The **Datathon for Data-Driven Policy Innovation 2025** is a national-level challenge that empowers students and researchers to harness **data science and machine learning** for **evidence-based policymaking**.  
+
+Hosted on **Unstop**, this event brings together participants from across India to analyze real-world public datasets — primarily from the **education sector** — and uncover actionable insights that can guide data-driven governance.
 
 ---
 
-## 🎯 Datathon Objectives
+## 🎯 Objectives of the Datathon
 
-- 📊 Use **data science and machine learning** to analyze large-scale educational data.
-- 🏫 Understand **factors influencing enrolment, retention, and dropout** in schools.
-- 💡 Design **data-driven policy recommendations** for improving educational outcomes.
-- 🌍 Promote the use of **open government data** for public policy decision-making.
-
----
-
-## 🧩 About the Dataset
-
-The **UDISE+ Dataset** captures school-level information across India, including:
-
-- School infrastructure & facilities  
-- Teacher and student profiles  
-- Enrolment and retention statistics  
-- Accessibility, sanitation, electricity, and digital readiness indicators  
-
-Every recognized school (from pre-primary to higher secondary) reports this data annually, which is validated and monitored at block, district, state, and national levels.
-
-**Data Years Used:** 2023–24 and 2024–25  
-**Source:** [UDISE+ Official Portal](https://udiseplus.gov.in/#/en/home)  
+- 📊 Use **data analytics and AI models** to explore key challenges in education policy.  
+- 🧩 Uncover hidden trends and relationships within **UDISE+ datasets** and other public data sources.  
+- 💡 Develop **data-driven policy recommendations** that can directly improve learning outcomes, infrastructure, and retention.  
+- 🌍 Promote open data culture and enhance capacity for **evidence-based decision-making** in the public sector.  
 
 ---
 
-## 🔍 Problem Prompts (Examples from Datathon)
+## 🧩 Dataset & Theme
 
-Participants can choose any two or more prompts such as:
+The core dataset used is the **Unified District Information System for Education (UDISE+)** for academic years **2023–24** and **2024–25**.  
+It contains comprehensive school-level data across India, including:
 
-1. Which factors strongly influence high dropout rates?  
-2. How does availability of teachers or functional toilets affect retention?  
-3. Is there a correlation between school infrastructure and enrolment?  
-4. Do dropout and retention patterns differ by gender or rural-urban divide?  
-5. How do improved facilities (labs, libraries, digital access) impact transition rates?  
+- 📘 **Enrolment, retention, and dropout statistics**  
+- 🏫 **School infrastructure & facilities** (toilets, classrooms, labs, electricity, internet, accessibility)  
+- 👩‍🏫 **Teacher and student demographics**  
+- 🌐 **Digital and environmental readiness indicators**
 
-> My project primarily focuses on analyzing **school infrastructure, enrolment, retention, and dropout rates**, and building models that can help predict or explain these educational outcomes.
-
----
-
-## 🧠 My Approach & Workflow
-
-1. **Data Integration:** Combined 2023–24 and 2024–25 UDISE+ datasets at school level.  
-2. **Feature Engineering:** Created meaningful indicators such as:
-   - Infrastructure sub-indices (Physical, Sanitation, Water, Electricity, Safety, etc.)
-   - Dropout, Retention, and Average Enrolment metrics.
-3. **Data Cleaning:** Removed duplicates, normalized values, and handled outliers.  
-4. **Analysis & Modeling:** 
-   - Correlation and trend analysis.
-   - Linear (OLS) and nonlinear (Random Forest) modeling.
-   - Explainability via SHAP.  
-5. **Policy Insight Generation:** Identified infrastructure factors most linked to high enrolment and low dropout rates.  
-6. **Visualization & Reporting:** Interactive dashboards and analytical visuals to communicate findings effectively to policy audiences.
+The data is massive (millions of rows) and offers a rich foundation for **exploratory, statistical, and predictive modeling**.
 
 ---
 
-## 📊 Key Deliverables (As per Datathon Guidelines)
+## 🧠 My Role in the Datathon
 
-1. **Analytical Report / Presentation**
-   - Modelling approach & indicator rationale  
-   - Key findings and insights  
-   - Actionable policy recommendations  
+As a participant, I am working on **multiple data analysis prompts** derived from the competition’s objectives — including but not limited to:
 
-2. **Dashboard / Visualization**
-   - Developed using Tableau, PowerBI, or Python visualization libraries  
-   - Designed for clarity, relevance, and decision-making impact  
+- Relationship between **school infrastructure** and **student outcomes** (enrolment, dropout, retention).  
+- Correlation between **digital facilities** and **educational participation**.  
+- Identifying **high-risk schools** based on composite infrastructure indices.  
+- Building interpretable **ML models** to support evidence-based interventions.
 
 ---
 
-## 🧰 Tech Stack Used
+## ⚙️ Methodology Overview
+
+1. **Data Cleaning & Integration** – Combined UDISE+ 2023–24 and 2024–25 datasets at the school level.  
+2. **Feature Engineering** – Derived sub-indices for Physical, Sanitation, Electricity, Accessibility, and Safety infrastructure.  
+3. **Normalization & Outlier Handling** – Standardized metrics to ensure comparability across schools.  
+4. **Exploratory Data Analysis (EDA)** – Examined relationships between infrastructure quality and education outcomes.  
+5. **Machine Learning Models** – Regression and ensemble techniques (OLS, Random Forest) with SHAP explainability.  
+6. **Insight Generation** – Translated findings into actionable insights for potential policy use.  
+
+---
+
+## 🧰 Tech Stack
 
 | Category | Tools / Libraries |
 |-----------|------------------|
+| **Language** | Python 3.13 |
 | **Data Handling** | `pandas`, `numpy`, `os`, `re` |
-| **Visualization** | `matplotlib`, `seaborn`, `plotly` |
 | **Modeling & ML** | `scikit-learn`, `statsmodels`, `RandomForestRegressor` |
+| **Visualization** | `matplotlib`, `seaborn`, `plotly`, `shap` |
 | **Explainability** | `SHAP` |
-| **Environment** | Jupyter Notebook, Python 3.13 |
+| **Environment** | Jupyter Notebook |
+
+---
+
+## 📊 Deliverables
+
+- **Data Cleaning & Integration Notebook** (`data analysis 5.ipynb`)  
+- **Analytical Visualizations** (correlations, trends, infra indices)  
+- **Predictive Models & Explainability Outputs**  
+- **Policy-ready insights** derived from the data  
 
 ---
 
 ## 💬 Policy Relevance
 
-The insights generated aim to:
-- Support **district-level planning** by identifying schools most at risk of dropout.  
-- Quantify **impact of infrastructure investments** on student participation.  
-- Empower policymakers with **data-backed recommendations** for resource allocation.  
+This project contributes to the Datathon’s mission by demonstrating how **data science can empower better education policy**.  
+By linking **school infrastructure indicators** with **student-level outcomes**, it provides a scalable framework for identifying problem areas and prioritizing interventions.
+
+> “Data-driven policymaking transforms education from assumption-based to evidence-based — one dataset at a time.”
 
 ---
 
 ## 👨‍💻 Author
 
 **Lakshya Agrawal**  
-AI & Data Science Researcher | Computer Vision | NLP | Public Data Analytics  
+AI & Data Science Researcher | Computer Vision | NLP | Policy Analytics  
 📍 University of Petroleum and Energy Studies  
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) • [GitHub](https://github.com/exoexo-1)
 
 ---
 
-## 🏁 Closing Note
+## 🏁 Conclusion
 
-This datathon bridges the gap between **raw educational data** and **policy impact**.  
-By combining analytical rigor with interpretability, the project demonstrates how **data-driven insights can empower evidence-based public policy** — transforming education one dataset at a time.
+This repository represents my **active participation** in the *Datathon for Data-Driven Policy Innovation 2025* — a unique intersection of **data science, governance, and social impact**.  
+Through deep analysis of educational data, the project highlights how **AI and analytics** can guide strategic, equitable policymaking in India’s education sector.
 
-> “Turning education data into actionable policy insights — one model at a time.” 🎯
+---
+
+📎 **Official Datathon Link:**  
+👉 [Datathon for Data-Driven Policy Innovation — Unstop](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
