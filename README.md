@@ -35,6 +35,7 @@ It contains comprehensive school-level data across India, including:
 - 🏫 **School infrastructure & facilities** (toilets, classrooms, labs, electricity, internet, accessibility)  
 - 👩‍🏫 **Teacher and student demographics**  
 - 🌐 **Digital and environmental readiness indicators**
+- **Dataset** [Google drive](https://drive.google.com/drive/folders/16KdRFXuCOcHhuj79PT6wYaNeAuYUpVjA)  
 
 The data is massive (millions of rows) and offers a rich foundation for **exploratory, statistical, and predictive modeling**.
 
@@ -46,8 +47,10 @@ As a participant, I am working on **multiple data analysis prompts** derived fro
 
 - Relationship between **school infrastructure** and **student outcomes** (enrolment, dropout, retention).  
 - Correlation between **digital facilities** and **educational participation**.  
-- Identifying **high-risk schools** based on composite infrastructure indices.  
+- Identifying **high-risk schools** based on composite infrastructure indices.
+- Visualizing and Analyzing relationship between child nutrition or health indicators (e.g., anemia) and school attendance 
 - Building interpretable **ML models** to support evidence-based interventions.
+  
 
 ---
 
@@ -111,4 +114,5 @@ Through deep analysis of educational data, the project highlights how **AI and a
 
 📎 **Official Datathon Link:**  
 👉 [Datathon for Data-Driven Policy Innovation — Unstop](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
+
 
