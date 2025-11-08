@@ -5,7 +5,7 @@
 **Institution:** University of Petroleum and Energy Studies  
 **Theme:** Education Data Analytics & Machine Learning  
 **Platform:** [Unstop Datathon Page](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)  
-**Organized by:** International Innovation Corps (University of Chicago Trust) in collaboration with the Ministry of Education, Government of India  
+**Organized by:** International Institute of Information Technology (IIIT), Bangalore
 
 ---
 
@@ -111,3 +111,4 @@ Through deep analysis of educational data, the project highlights how **AI and a
 
 📎 **Official Datathon Link:**  
 👉 [Datathon for Data-Driven Policy Innovation — Unstop](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
+
