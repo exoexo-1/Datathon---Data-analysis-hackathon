@@ -106,9 +106,10 @@ AI & Data Science Researcher | Computer Vision | NLP | Policy Analytics
 ---
 
 ## 🎖️ Submission & Achievements
-**Submitted here: **https://drive.google.com/drive/folders/1xrdFsKr0Wv6G9vHofiso8DdGFeGRUmFI?usp=drive_link
+**Submitted here:** : https://drive.google.com/drive/folders/1xrdFsKr0Wv6G9vHofiso8DdGFeGRUmFI?usp=drive_link
 
 *Cleared 1st round!!*
+
 <img width="871" height="1486" alt="image" src="https://github.com/user-attachments/assets/582d4de1-6c94-40e6-8f20-99ac839fcb67" />
 
 
@@ -121,6 +122,7 @@ Through deep analysis of educational data, the project highlights how **AI and a
 
 📎 **Official Datathon Link:**  
 👉 [Datathon for Data-Driven Policy Innovation — Unstop](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
+
 
 
 
