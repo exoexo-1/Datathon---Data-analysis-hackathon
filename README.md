@@ -102,6 +102,7 @@ By linking **school infrastructure indicators** with **student-level outcomes**,
 AI & Data Science Researcher | Computer Vision | NLP | Policy Analytics  
 📍 University of Petroleum and Energy Studies  
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) • [GitHub](https://github.com/exoexo-1)
+**Ishaan Kaul**
 AI & Full-Stack Engineer
 📍 University of Petroleum and Energy Studies  
 🔗 [LinkedIn](https://www.linkedin.com/in/ishaankaul/) • [GitHub](https://github.com/IshaanKaul210104)
