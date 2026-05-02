@@ -1,7 +1,7 @@
 # 🧠 Datathon for Data-Driven Policy Innovation 2025  
 ### 🚀 Driving Evidence-Based Interventions in Public Policy
 
-**Author:** Lakshya Agrawal  
+**Author:** Lakshya Agrawal, Ishaan Kaul, Gayatri Kate  
 **Institution:** University of Petroleum and Energy Studies  
 **Theme:** Education Data Analytics & Machine Learning  
 **Platform:** [Unstop Datathon Page](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)  
@@ -101,7 +101,12 @@ By linking **school infrastructure indicators** with **student-level outcomes**,
 **Lakshya Agrawal**  
 AI & Data Science Researcher | Computer Vision | NLP | Policy Analytics  
 📍 University of Petroleum and Energy Studies  
-🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) • [GitHub](https://github.com/exoexo-1)
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) • [GitHub](https://github.com/exoexo-1)  
+**Ishaan Kaul**  
+AI & Full-Stack Engineer  
+📍 University of Petroleum and Energy Studies  
+🔗 [LinkedIn](https://www.linkedin.com/in/ishaankaul/) • [GitHub](https://github.com/IshaanKaul210104)
+
 
 ---
 
