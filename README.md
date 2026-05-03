@@ -1,78 +1,102 @@
-# 🧠 Datathon for Data-Driven Policy Innovation 2025  
-### 🚀 Driving Evidence-Based Interventions in Public Policy
+# 🏆 Datathon for Data-Driven Policy Innovation 2025
+### Driving Evidence-Based Interventions in Public Policy
 
-**Author:** Lakshya Agrawal, Ishaan Kaul, Gayatri Kate  
-**Institution:** University of Petroleum and Energy Studies  
-**Theme:** Education Data Analytics & Machine Learning  
-**Platform:** [Unstop Datathon Page](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)  
-**Organized by:** International Institute of Information Technology (IIIT), Bangalore
+> **🥇 National Winners — 1st Place**  
+> Organized by **IIIT-Bangalore × NITI Aayog** | Synergy 2025
+
+---
+
+## 👥 Team Exoticx
+
+| Name | Role | Institution |
+|------|------|-------------|
+| [Lakshya Agrawal](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) | Team Leader — Data Science & ML | UPES Dehradun |
+| [Ishaan Kaul](https://www.linkedin.com/in/ishaankaul/) | AI & Full-Stack Engineer | UPES Dehradun |
+| Gayatri Kate | Analyst | UPES Dehradun |
+
+🔗 [Lakshya's GitHub](https://github.com/exoexo-1) • [Ishaan's GitHub](https://github.com/IshaanKaul210104)
+
+---
+
+## 🏅 Competition Results
+
+| Rank | Team | Institution |
+|------|------|-------------|
+| 🥇 1st | **Exoticx** | UPES Dehradun |
+| 🥈 2nd | sparsh.agrawal | IIIT Bangalore |
+| 🥉 3rd | IITeration_1516 | IIT Madras |
+
+Certificates signed by **Prof. Debabrata Das** (Director, IIIT-B) and **Mr. K.S. Rejimon** (Joint Secretary & Mission Director – State Support Mission, NITI Aayog). Results recognized at the official NITI Aayog inaugural event on April 10, 2025.
+
+📰 Official Coverage:
+- [NITI Aayog on X (Twitter)](https://x.com/NITIAayog/status/2042553899647910082)
+- [IIIT-Bangalore on Instagram](https://www.instagram.com/p/DW8r4AVDIvL/)
+- [IIIT-Bangalore on Facebook](https://www.facebook.com/IIITBofficial/posts/969312662295693/)
 
 ---
 
 ## 📘 About the Datathon
 
-The **Datathon for Data-Driven Policy Innovation 2025** is a national-level challenge that empowers students and researchers to harness **data science and machine learning** for **evidence-based policymaking**.  
+The **Datathon for Data-Driven Policy Innovation 2025** is a national-level challenge that empowers students and researchers to harness **data science and machine learning** for **evidence-based policymaking**.
 
-Hosted on **Unstop**, this event brings together participants from across India to analyze real-world public datasets — primarily from the **education sector** — and uncover actionable insights that can guide data-driven governance.
+Hosted on **Unstop**, participants from across India analyzed real-world public datasets — primarily from the **education sector** — to uncover actionable insights that can guide data-driven governance aligned with the **Viksit Bharat 2047** vision.
+
+🔗 [Official Datathon Page (Unstop)](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
 
 ---
 
-## 🎯 Objectives of the Datathon
+## 🎯 Objectives
 
-- 📊 Use **data analytics and AI models** to explore key challenges in education policy.  
-- 🧩 Uncover hidden trends and relationships within **UDISE+ datasets** and other public data sources.  
-- 💡 Develop **data-driven policy recommendations** that can directly improve learning outcomes, infrastructure, and retention.  
-- 🌍 Promote open data culture and enhance capacity for **evidence-based decision-making** in the public sector.  
+- 📊 Use **data analytics and AI models** to explore key challenges in education policy
+- 🧩 Uncover hidden trends within **UDISE+ datasets** and other public data sources
+- 💡 Develop **data-driven policy recommendations** to improve learning outcomes, infrastructure, and retention
+- 🌍 Promote open data culture and **evidence-based decision-making** in the public sector
 
 ---
 
 ## 🧩 Dataset & Theme
 
-The core dataset used is the **Unified District Information System for Education (UDISE+)** for academic years **2023–24** and **2024–25**.  
-It contains comprehensive school-level data across India, including:
+The core dataset is the **Unified District Information System for Education (UDISE+)** for academic years **2023–24** and **2024–25** — one of the largest education management information systems in the world, covering millions of schools across India.
 
-- 📘 **Enrolment, retention, and dropout statistics**  
-- 🏫 **School infrastructure & facilities** (toilets, classrooms, labs, electricity, internet, accessibility)  
-- 👩‍🏫 **Teacher and student demographics**  
-- 🌐 **Digital and environmental readiness indicators**
-- **Dataset** [Google drive](https://drive.google.com/drive/folders/16KdRFXuCOcHhuj79PT6wYaNeAuYUpVjA)  
+It includes:
+- 📘 Enrolment, retention, and dropout statistics
+- 🏫 School infrastructure & facilities (toilets, classrooms, labs, electricity, internet, accessibility)
+- 👩‍🏫 Teacher and student demographics
+- 🌐 Digital and environmental readiness indicators
 
-The data is massive (millions of rows) and offers a rich foundation for **exploratory, statistical, and predictive modeling**.
-
----
-
-## 🧠 My Role in the Datathon
-
-As a participant, I am working on **multiple data analysis prompts** derived from the competition’s objectives — including but not limited to:
-
-- Relationship between **school infrastructure** and **student outcomes** (enrolment, dropout, retention).  
-- Correlation between **digital facilities** and **educational participation**.  
-- Identifying **high-risk schools** based on composite infrastructure indices.
-- Visualizing and Analyzing relationship between child nutrition or health indicators (e.g., anemia) and school attendance 
-- Building interpretable **ML models** to support evidence-based interventions.
-  
+🔗 [Dataset (Google Drive)](https://drive.google.com/drive/folders/16KdRFXuCOcHhuj79PT6wYaNeAuYUpVjA)
 
 ---
 
-## ⚙️ Methodology Overview
+## ⚙️ Methodology
 
-1. **Data Cleaning & Integration** – Combined UDISE+ 2023–24 and 2024–25 datasets at the school level.  
-2. **Feature Engineering** – Derived sub-indices for Physical, Sanitation, Electricity, Accessibility, and Safety infrastructure.  
-3. **Normalization & Outlier Handling** – Standardized metrics to ensure comparability across schools.  
-4. **Exploratory Data Analysis (EDA)** – Examined relationships between infrastructure quality and education outcomes.  
-5. **Machine Learning Models** – Regression and ensemble techniques (OLS, Random Forest) with SHAP explainability.  
-6. **Insight Generation** – Translated findings into actionable insights for potential policy use.  
+1. **Data Cleaning & Integration** — Combined UDISE+ 2023–24 and 2024–25 datasets at the school level
+2. **Feature Engineering** — Derived sub-indices for Physical, Sanitation, Electricity, Accessibility, and Safety infrastructure
+3. **Normalization & Outlier Handling** — Standardized metrics for cross-school comparability
+4. **Exploratory Data Analysis (EDA)** — Examined relationships between infrastructure quality and education outcomes
+5. **Machine Learning Models** — Regression and ensemble techniques (OLS, Random Forest) with SHAP explainability
+6. **Insight Generation** — Translated findings into actionable policy-ready insights
+
+---
+
+## 🔍 Key Analysis Areas
+
+- Relationship between **school infrastructure** and **student outcomes** (enrolment, dropout, retention)
+- Correlation between **digital facilities** and **educational participation**
+- Identifying **high-risk schools** using composite infrastructure indices
+- Visualizing the link between **child nutrition/health indicators** (e.g., anemia) and school attendance
+- Building interpretable **ML models** to support evidence-based interventions
 
 ---
 
 ## 🧰 Tech Stack
 
 | Category | Tools / Libraries |
-|-----------|------------------|
+|----------|------------------|
 | **Language** | Python 3.13 |
 | **Data Handling** | `pandas`, `numpy`, `os`, `re` |
 | **Modeling & ML** | `scikit-learn`, `statsmodels`, `RandomForestRegressor` |
-| **Visualization** | `matplotlib`, `seaborn`, `plotly`, `shap` |
+| **Visualization** | `matplotlib`, `seaborn`, `plotly` |
 | **Explainability** | `SHAP` |
 | **Environment** | Jupyter Notebook |
 
@@ -80,55 +104,27 @@ As a participant, I am working on **multiple data analysis prompts** derived fro
 
 ## 📊 Deliverables
 
-- **Data Cleaning & Integration Notebook** (`data analysis 5.ipynb`)  
-- **Analytical Visualizations** (correlations, trends, infra indices)  
-- **Predictive Models & Explainability Outputs**  
-- **Policy-ready insights** derived from the data  
+- 📓 Data Cleaning & Integration Notebook (`data analysis 5.ipynb`)
+- 📈 Analytical Visualizations (correlations, trends, infrastructure indices)
+- 🤖 Predictive Models & SHAP Explainability Outputs
+- 📋 Policy-ready insights for District Magistrates and Policy Officers
+
+🔗 [Full Submission (Google Drive)](https://drive.google.com/drive/folders/1xrdFsKr0Wv6G9vHofiso8DdGFeGRUmFI?usp=drive_link)
 
 ---
 
 ## 💬 Policy Relevance
 
-This project contributes to the Datathon’s mission by demonstrating how **data science can empower better education policy**.  
-By linking **school infrastructure indicators** with **student-level outcomes**, it provides a scalable framework for identifying problem areas and prioritizing interventions.
+This project demonstrates how **data science can empower better education policy** by linking school infrastructure indicators with student-level outcomes. It provides a scalable framework for identifying problem areas and prioritizing interventions — directly actionable by district-level administrators.
 
-> “Data-driven policymaking transforms education from assumption-based to evidence-based — one dataset at a time.”
-
----
-
-## 👨‍💻 Author
-
-**Lakshya Agrawal**  
-AI & Data Science Researcher | Computer Vision | NLP | Policy Analytics  
-📍 University of Petroleum and Energy Studies  
-🔗 [LinkedIn](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) • [GitHub](https://github.com/exoexo-1)  
-**Ishaan Kaul**  
-AI & Full-Stack Engineer  
-📍 University of Petroleum and Energy Studies  
-🔗 [LinkedIn](https://www.linkedin.com/in/ishaankaul/) • [GitHub](https://github.com/IshaanKaul210104)
-
+> *"Data-driven policymaking transforms education from assumption-based to evidence-based — one dataset at a time."*
 
 ---
-
-## 🎖️ Submission & Achievements
-**Submitted here:** : https://drive.google.com/drive/folders/1xrdFsKr0Wv6G9vHofiso8DdGFeGRUmFI?usp=drive_link
-
-*Cleared 1st round!!*
-
-<img width="871" height="1486" alt="image" src="https://github.com/user-attachments/assets/582d4de1-6c94-40e6-8f20-99ac839fcb67" />
-
 
 ## 🏁 Conclusion
 
-This repository represents my **active participation** in the *Datathon for Data-Driven Policy Innovation 2025* — a unique intersection of **data science, governance, and social impact**.  
-Through deep analysis of educational data, the project highlights how **AI and analytics** can guide strategic, equitable policymaking in India’s education sector.
+Team Exoticx's winning submission represents a meaningful intersection of **data science, governance, and social impact**. Through deep analysis of India's education data, the project highlights how AI and analytics can guide strategic, equitable policymaking — contributing to the **Viksit Bharat 2047** mission.
 
 ---
 
-📎 **Official Datathon Link:**  
-👉 [Datathon for Data-Driven Policy Innovation — Unstop](https://unstop.com/hackathons/datathon-for-data-driven-policy-innovation-driving-evidence-based-interventions-in-public-policy-internationa-1582281)
-
-
-
-
-
+*🏆 1st Place — Datathon for Data-Driven Policy Innovation 2025 | IIIT-Bangalore × NITI Aayog*
