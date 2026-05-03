@@ -3,7 +3,7 @@
 
 > **🥇 National Winners — 1st Place**  
 > Organized by **IIIT-Bangalore × NITI Aayog** | Synergy 2025
-
+[Certificate](https://drive.google.com/file/d/1OPJoMRuL__4aN5LD2ysTJoGvq8qQQOhV/view?usp=sharing)
 ---
 
 ## 👥 Team Exoticx
