@@ -10,9 +10,9 @@
 
 | Name | Role | Institution |
 |------|------|-------------|
-| [Lakshya Agrawal](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) | Team Leader — Data Science & ML | UPES Dehradun |
-| [Ishaan Kaul](https://www.linkedin.com/in/ishaankaul/) | AI & Full-Stack Engineer | UPES Dehradun |
-| Gayatri Kate | Analyst | UPES Dehradun |
+| [Lakshya Agrawal](https://www.linkedin.com/in/lakshya-agrawal-35689226b/) | Team Leader — Data Science & AI | UPES Dehradun |
+| [Ishaan Kaul](https://www.linkedin.com/in/ishaankaul/) | Data science & AI | UPES Dehradun |
+
 
 🔗 [Lakshya's GitHub](https://github.com/exoexo-1) • [Ishaan's GitHub](https://github.com/IshaanKaul210104)
 
